@@ -1,2 +1,2 @@
 # MyMovieApp
-Проект для Курса Android developer Тинькофф Финтех
+Проект для Курса Android developer Тинькофф Финтех 2023
